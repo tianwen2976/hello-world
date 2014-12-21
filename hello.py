@@ -35,4 +35,3 @@ class MyClass:
 if __name__=='__main__':
     mc = MyClass()
 
->>>>>>> 969e31ace6f6f74a48fcf5d92dc76ee5576ef50d
