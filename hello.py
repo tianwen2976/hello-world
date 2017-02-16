@@ -28,6 +28,7 @@ class EmplAddrBookEntry(AddrBookEntry):
 
 class MyClass:
     def __init__(self):
+        print 'heelo'
         print 'initialized'
 
 
