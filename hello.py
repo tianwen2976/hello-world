@@ -26,7 +26,6 @@ class EmplAddrBookEntry(AddrBookEntry):
         self.email = newem
         print 'Updated e-mail address for:',self.name
 
-
 class MyClass:
     def __init__(self):
         print 'initialized'
