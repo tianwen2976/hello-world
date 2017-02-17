@@ -33,6 +33,7 @@ class MyClass:
 
 
 if __name__=='__main__':
+    print 'mc'
     mc = MyClass()
 
 #add some commit
