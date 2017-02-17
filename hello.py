@@ -19,6 +19,7 @@ class EmplAddrBookEntry(AddrBookEntry):
 
     def __init__(self,nm,ph,id,em):
         AddrBookEntry.__init__(self,nm,ph)
+
         self.empid = id
         self.email = em
 
